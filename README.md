@@ -28,13 +28,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>📚 Cozy Club</h3>
-      <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-F59E0B?style=flat-square" /><br/><br/>
-      Plataforma de gestão escolar para a escola de educação infantil Cozy Club, com app para <b>Android e iOS</b> e painel web. São cinco perfis de acesso (gestão, coordenação, secretaria, professores e pais), cada um com permissões aplicadas direto no banco de dados. O sistema inclui matrículas, agenda diária com notificação para os pais, feed da turma no estilo rede social e chamada que funciona sem internet. Estou desenvolvendo em parceria com o <a href="https://github.com/jvictor-melo">João Victor</a>.
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📋 Automação de Gestão de Clientes</h3>
       Scripts que automatizam o controle de listas de clientes e facilitam processos logísticos de negócios locais.<br/><br/>
